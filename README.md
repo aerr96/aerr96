@@ -1,5 +1,11 @@
-### Hi there 👋
+### ENGINEER ALEJANDRO RIVAS 
 
+## 📡 Electronic Enggineer
+Bachelor in Electronics at Simon Bolivar University with a project degree in LPWAN and Mesh networking.
+## 💻 IT Tech
+Field Experience in AV and IT setups in Corporate Events in the United States.
+## ⛏️ Future Developer
+I am currently working on Full Stack Development path with IT certifications to enter the programming work market in the US.
 <!--
 **aerr96/aerr96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
