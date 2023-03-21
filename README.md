@@ -15,6 +15,7 @@ I am currently working on Full Stack Development path with IT certifications to 
 | alias  | create a shorcut to reference a builded command| 
 | echo   | outputs the strings it is being passed as arguments|  
 | cat    | create, view, and concatenate files| 
+|cl | alias clear (clean terminal)|
 
 <!--
 **aerr96/aerr96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
