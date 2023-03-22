@@ -7,7 +7,7 @@ Field Experience in AV and IT setups in Corporate Events in the United States.
 ## ⛏️ Future Developer
 I am currently working on Full Stack Development path with IT certifications to enter the programming work market in the US.
 
-##CLI Table:
+## CLI Table:
 | command| description|
 |--------|------------|
 | ls     | list files and directories|    
